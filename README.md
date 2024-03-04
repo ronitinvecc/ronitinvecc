@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @ronitinvecc undergrad at IIT Kharagpur pursuing a masters degree in Physics.
-- 👀 I’m interested in Deep learning, Quantum Computing and Particle Physics (Detectors, Analysis and Simulation).
-- 🌱 I’m currently learning QML and Particle Physics.
-- 👨‍💻 I hope to pursue a PhD in experimental Physics. Currently, I'm exploring the aforementioned subjects.
-- 👨‍💻 I have working expeirence with particle analysis and I have worked on several projects of Deep learning, Sentiment Analysis, Image Processing and Reinforcement learning.
-- 👨‍💻 I am also a keen participant in Quantum Computing hackathons, contact me if you would want to team up. Let's learn together.
-- 💞️ I’m looking to collaborate on Deep learning projects especially aiding Physics (visualization ,simulation, monte carlo methods, analysis and optimization)
-- 📫 You can contact me via my institute mail id - ronit.dutta@kgpian.iitkgp.ac.in
+Hi, I’m @ronitinvecc undergrad at IIT Kharagpur pursuing a masters degree in Physics and interested primarily in Quantum Computing and QML among many things.
